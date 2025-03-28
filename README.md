@@ -26,7 +26,7 @@ cd earn-internship-game
 
 ### 3. Start the Game
 
-- Inside the repository, you’ll find a folder called `earn-internship`.
+- Inside the repository, you’ll find a folder called `internship_game`.
 - Begin your journey by entering this folder:
 
 ```bash
