@@ -8,6 +8,43 @@ Are you ready to prove yourself? 💻✨
 
 ---
 
+## 🎯 Goal of the Game
+
+The goal of this game is simple:
+
+> ✅ **Answer IT-related questions correctly** by using your terminal skills and logical thinking to navigate through the correct folders.
+
+If you succeed, you'll reach the final level and earn your **virtual internship badge**!
+
+You'll need to use **CLI (Command Line Interface)** and **Git commands** throughout the game to:
+
+- Read instructions from `hint.txt` and `readme.txt`
+- Navigate into the correct folders
+- Follow clues and avoid dead ends
+
+This game includes basic technical skills you'd need in a real IT internship!
+
+---
+
+## 📜 Rules of the Game
+
+- ✅ **Start the game by cloning the repository locally.**
+
+- ✅ At each level, **read `hint.txt` carefully** to find your next step.
+
+- ✅ Use **CLI commands** like `cd`, `ls`, `cat` to explore folders and read files.
+
+- ❌ **Wrong answers** will lead you to a "dead end" folder with a friendly message.  
+  You’ll need to go back and try another path.
+
+- ✅ Only one folder is the correct path at each level.
+
+- ✅ You must read the `readme.txt` or `hint.txt` in each folder to find where to go next.
+
+- 🧠 Take your time, think carefully, and use your terminal powers!
+
+---
+
 ## 🚀 How to Play
 
 ### 1. Clone the Repository
