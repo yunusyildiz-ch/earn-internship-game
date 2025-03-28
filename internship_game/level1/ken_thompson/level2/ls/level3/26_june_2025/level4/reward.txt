@@ -1,0 +1,26 @@
+        .''.             *''*    :_\/_:     . 
+      :_\/_:   .    .:.*_\/_*   : /\ :  .'.:.'.
+  .''.: /\ : _\(/_  ':'* /\ *  : '..'.  -=:o:=-
+ :_\/_:'.:::. /)\*''*  .|.* '.\'/.'_\(/_'.':'.'
+ : /\ : :::::  '*_\/_* | |  -= o =- /)\    '  *
+  '..'  ':::'   * /\ * |'|  .'/.\'.  '._____
+      *        __*..* |  |     :      |.   |' .---"|
+       _*   .-'   '-. |  |     .--'|  ||   | _|    |
+    .-'|  _.|  |    ||   '-__  |   |  |    ||      |
+    |' | |.    |    ||       | |   |  |    ||      |
+ ___|  '-'     '    ""       '-'   '-.'    '`      |____
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+🎉 Congratulations, you did an amazing job! 🎉
+
+Now, here’s your final step:
+
+🧭 Clone the following GitHub repository to your local machine:  
+👉 https://github.com/eliaszeru/internship-game.git
+
+Then open the project locally and display it using your browser or VS Code Live Server.
+
+Once you do that, you'll see your reward and the result of your journey. 🚀
+
+You've made it — enjoy your victory! 🏆

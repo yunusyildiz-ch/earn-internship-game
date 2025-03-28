@@ -1,0 +1,13 @@
+Level 1: 🧠 Terminal Legends
+
+To proceed to the next level, answer this question correctly:
+
+❓ Who is considered the creator of the CLI (Command Line Interface)?
+
+Choose wisely by opening the correct folder...
+
+1. steve_jobs  
+2. bill_gates  
+3. ken_thompson
+
+Only one path will lead you forward. 🔓

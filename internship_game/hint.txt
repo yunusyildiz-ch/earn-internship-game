@@ -1,0 +1,22 @@
+   ____  _             _   
+  / ___|| |_ __ _ _ __| |_ 
+  \___ \| __/ _\` | '__| __|
+   ___) | || (_| | |  | |_ 
+  |____/ \__\__,_|_|   \__|
+                           
+          🚀 Internship Game 🚀
+
+Hello, player... 👋
+
+Welcome to our game. You're about to explore our special **Internship Game**.
+To move to the next level, you must find the correct answer to each question. Only then can you unlock what's ahead. 🔓
+
+Your journey begins now.  
+Enter the `level1` folder inside the `internship_game` directory and start the game!
+
+Creators of the game:  
+🧠 Yordonas FESSEHA  
+🎯 Elias ZERU  
+💡 Yunus YILDIZ
+
+Good luck, and enjoy the challenge! 🚀

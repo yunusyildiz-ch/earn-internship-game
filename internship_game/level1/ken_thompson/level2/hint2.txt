@@ -1,0 +1,13 @@
+Level 2: 📂 Command Challenge
+
+Ready to prove your basic terminal skills?
+
+❓ Which CLI command is used to list the files and directories in the current folder?
+
+Choose the correct option by entering the right folder:
+
+1. ls  
+2. cd  
+3. rm
+
+Only one of these paths will lead you to the next step. 🚪
