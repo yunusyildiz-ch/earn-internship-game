@@ -37,8 +37,8 @@ cd internship_game
 
 Each level contains two key files:
 
-- hint.txt – Provides questions, clues, or challenges.
-- readme.txt – Gives guidance or messages based on your progress.
+- `hint.txt` – Provides questions, clues, or challenges.
+- `readme.txt` – Gives guidance or messages based on your progress.
 
 You’ll also find multiple folders per level — only one of them is the correct path. Choose wisely. 
 
