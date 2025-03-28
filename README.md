@@ -79,7 +79,7 @@ Each level contains two key files:
 
 You’ll also find multiple folders per level — only one of them is the correct path. Choose wisely. 
 
-### 🧠 What You’ll Learn
+## 🧠 What You’ll Learn
 
 By playing this game, you’ll strengthen your understanding of:
 
@@ -87,7 +87,7 @@ By playing this game, you’ll strengthen your understanding of:
 - Git & GitHub usage
 - Logical thinking and problem-solving
 
-### 🙌 Contributors
+## 🙌 Contributors
 
 This game was created with love, logic, and lots of coffee by:
 
@@ -95,7 +95,7 @@ This game was created with love, logic, and lots of coffee by:
 - Elias ZERU
 - Yunus YILDIZ
 
-### 📢 Final Note
+## 📢 Final Note
 
 This game is best experienced in a terminal environment.
 Have fun, learn something new, and show us you’re internship-ready!
